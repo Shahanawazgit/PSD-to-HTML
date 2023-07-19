@@ -1,0 +1,87 @@
+@media screen and (max-width: 993px) {
+  .navbar-nav {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .navbar-nav li a:hover::after {
+    width: 0;
+  }
+
+  #hire_me {
+    width: 120px;
+    height: 30px;
+    font-size: 18px;
+  }
+
+  #about_me {
+    width: 120px;
+    height: 30px;
+    font-size: 18px;
+  }
+
+  .main_title h1 {
+    font-size: 40px;
+  }
+
+  .about_text p {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+
+  .about_text h2 {
+    font-size: 26px;
+  }
+
+  .common_div .progress {
+    width: 100%;
+  }
+
+  .expert1::after {
+    right: 0;
+  }
+
+  .expert2::after {
+    right: 0;
+  }
+
+  .expert3::after {
+    right: 0;
+  }
+
+  .work_img img {
+    margin-top: 20px;
+  }
+
+  .services_div li {
+    font-size: 20px;
+  }
+
+  .hire_me h1 {
+    font-size: 32px;
+  }
+
+  .hire_me p {
+    font-size: 18px;
+  }
+
+  .hire_me h3 {
+    font-size: 24px;
+  }
+
+  .contact_img img {
+    display: none;
+  }
+
+  .contact_resp {
+    margin: 0 !important;
+  }
+
+  .contact_inner {
+    margin: auto;
+  }
+
+  .footer p {
+    font-size: 16px;
+  }
+}
