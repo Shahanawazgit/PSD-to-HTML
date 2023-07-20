@@ -81,7 +81,16 @@
     margin: auto;
   }
 
+  .footer {
+    flex-direction: column;
+    height: auto;
+  }
+
   .footer p {
-    font-size: 16px;
+    font-size: 14px;
+  }
+
+  .footer a {
+    margin: 0;
   }
 }
