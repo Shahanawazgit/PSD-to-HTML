@@ -352,6 +352,11 @@
   transform: translateY(-5px);
 }
 
+.social_links a {
+  text-decoration: none;
+  color: #212529;
+}
+
 /*---------------------- Footer Section ----------------------*/
 .footer {
   background: #ff7230;
